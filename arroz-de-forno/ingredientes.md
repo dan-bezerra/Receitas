@@ -1,0 +1,3 @@
+* arroz
+* forno 
+* sal
